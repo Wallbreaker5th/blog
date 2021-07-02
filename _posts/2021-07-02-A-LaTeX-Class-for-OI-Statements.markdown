@@ -11,4 +11,4 @@ categories: LaTeX
 
 效果可以见下面这个 PDF：
 
-<embed width="800" height="600" src="{{ site.url }}/assets/files/example.pdf"></embed>
+<embed width="800" height="600" src="{{ site.url }}/assets/files/LaTeX-example.pdf"></embed>
