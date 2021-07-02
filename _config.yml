@@ -22,7 +22,7 @@ title: Wallbreaker5th 的博客
 email: 3277946283@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wallbreaker5th 的博客
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wallbreaker5th.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Wallbreaker5th
 github_username:  Wallbreaker5th
